@@ -1,3 +1,3 @@
 # Student-Activity
 
-## URL: https://shanuvas570-afk.github.io/Student-Activi
+## URL: https://shanuvas570-afk.github.io/Student-Activity
